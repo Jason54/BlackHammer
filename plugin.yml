@@ -1,0 +1,5 @@
+name: BlackHammer
+main: BlackHammer\Hammer
+api: [3.2.0]
+author: BlackTeam
+version: 1.0.0
